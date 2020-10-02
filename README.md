@@ -26,3 +26,11 @@ La implementación con NEXT.JS no está incluida aquí ya que no he manejado los
 revisando la documentación todavía.
 
 Solo incluyo lo que tengo hasta el momento.
+
+
+DATOS PERSONALES :D
+
+Nombre: César Alejandro Nájera Adame
+Email: cesar.naad@gmail.com
+Teléfono: 7471095443
+Escuela: IPN ESIME Culhuacán | Ing. en Computación
